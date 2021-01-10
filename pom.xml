@@ -41,6 +41,7 @@
 				<applicationName>email-validation</applicationName>
 				<muleVersion>4.3.0</muleVersion>
 				<password>Apisero@123</password>
+				<objectStoreV2>true</objectStoreV2>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
