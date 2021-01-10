@@ -8,6 +8,9 @@
     <packaging>mule-application</packaging>
 
 	<name>error-handling-ass1</name>
+	
+	
+	
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
