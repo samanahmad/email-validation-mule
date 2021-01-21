@@ -27,7 +27,7 @@ http://www.mulesoft.org/schema/mule/tls http://www.mulesoft.org/schema/mule/tls/
 				<on-error-propagate enableNotifications="true" logException="true" doc:name="On Error Propagate" doc:id="345977aa-26d7-4983-9267-b7c6ad06d818" >
 					<email:send doc:name="Send" doc:id="a6ec20f6-9d11-43bd-8325-331594014f0e" fromAddress="samanahmad7@gmail.com" config-ref="Email_SMTP">
 						<email:to-addresses >
-							<email:to-address value="samanahmad7@gmail.com" />
+							<email:to-address value="samanahmad997@gmail.com" />
 						</email:to-addresses>
 						<email:body contentType="text/pain" encoding="UTF-8">
 							<email:content ><![CDATA["The email address is missing"]]></email:content>
